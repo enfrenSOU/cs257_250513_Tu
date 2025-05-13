@@ -1,5 +1,4 @@
 #!/bin/bash 
-
 # SESSION_ID="3571e501-bd53-441c-9bd6-c26d3ddc2ab7"
 # JSON="{ \"session_id\": \"$SESSION_ID\"\}"
 
